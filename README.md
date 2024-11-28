@@ -27,7 +27,7 @@ Bu proje, OpenCV kütüphanesi kullanarak bir video kaynağında göz tespiti ve
    Uygulamayı çalıştırmak için terminal veya komut satırından aşağıdaki komutu kullanın:
 
    ```bash
-   python eye_tracking.py
+   python goz_tespit.py.py
    ```
 
 4. **Çalıştırma ve Sonuçlar:**
